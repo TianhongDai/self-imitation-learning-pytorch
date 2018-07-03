@@ -1,5 +1,5 @@
 # Self-Imitation-Learning with A2C
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg) 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)   
 This is the pytorch version of the **A2C + SIL** - **which is basiclly the same as the openai baselines**. The paper could be found [Here](https://arxiv.org/abs/1806.05635).
 ## Requirements
 - python-3.5.2

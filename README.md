@@ -35,7 +35,7 @@ python train --env-name 'PongNoFrameskip-v4' --cuda --no-sil
 ```
 ## Training Performance
 Because of time, I just run Pong with 2 million steps. The results of **MontezumaRevenge** will be uploaded later!
-![Scheme](figures/sil_pong.png)
+![Scheme](figures/sil_pong.png)  
 Another results for the **Freeway** which is correspond with the original paper.  
 ![freeway](figures/sil_freeway.png)
 ## Acknowledgement

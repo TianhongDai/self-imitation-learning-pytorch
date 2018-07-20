@@ -38,6 +38,8 @@ Because of time, I just run Pong with 2 million steps. The results of **Montezum
 ![Scheme](figures/sil_pong.png)  
 Another results for the **Freeway** which is correspond with the original paper.  
 ![freeway](figures/sil_freeway.png)
+## Demo
+![freewaydemo](figures/freeway.gif)
 ## Acknowledgement
 [@junhyukoh](https://github.com/junhyukoh) for [original code](https://github.com/junhyukoh/self-imitation-learning)
 

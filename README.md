@@ -1,6 +1,7 @@
 # Self-Imitation-Learning with A2C
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)   
 This is the pytorch version of the **A2C + SIL** - **which is basiclly the same as the openai baselines**. The paper could be found [Here](https://arxiv.org/abs/1806.05635).
+![freewaydemo](figures/freeway.gif)
 ## TODO List
 - [ ] Add PPO with SIL
 - [ ] Add more results
@@ -38,8 +39,6 @@ Because of time, I just run Pong with 2 million steps. The results of **Montezum
 ![Scheme](figures/sil_pong.png)  
 Another results for the **Freeway** which is correspond with the original paper.  
 ![freeway](figures/sil_freeway.png)
-## Demo
-![freewaydemo](figures/freeway.gif)
 ## Acknowledgement
 [@junhyukoh](https://github.com/junhyukoh) for [original code](https://github.com/junhyukoh/self-imitation-learning)
 

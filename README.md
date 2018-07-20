@@ -20,7 +20,7 @@ pip install -e .
 ## How to use the code
 Train the network:
 ```bash
-python train --env-name 'PongNoFrameskip-v4' --cuda (if you have the GPU)
+python train.py --env-name 'PongNoFrameskip-v4' --cuda (if you have the GPU)
 
 ```
 Test the network:
@@ -30,7 +30,7 @@ python demo.py --env-name 'PongNoFrameskip-v4'
 ```
 You could also try the A2C algorithm without SIL by adding flag `--no-sil`:
 ```bash
-python train --env-name 'PongNoFrameskip-v4' --cuda --no-sil
+python train.py --env-name 'PongNoFrameskip-v4' --cuda --no-sil
 
 ```
 ## Training Performance

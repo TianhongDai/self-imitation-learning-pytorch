@@ -9,11 +9,12 @@ This is the pytorch version of the **A2C + SIL** - **which is basiclly the same 
 - openai-baselines
 - pytorch-0.4.0
 ## Installation
-Install OpenAI Baselines
+Install OpenAI Baselines (**Need to use the previous version of openai-baselines, will solve in the future.**)
 ```bash
 # clone the openai baselines
 git clone https://github.com/openai/baselines.git
 cd baselines
+git checkout 366f486
 pip install -e .
 
 ```
